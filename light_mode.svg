@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="1286px" font-size="19px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+text, tspan {white-space: pre;}
+.key {fill:#953800;}
+.value {fill:#0a3069;}
+.cc {fill:#c2cfde;}
+</style>
+<rect width="985px" height="1286px" fill="#f6f8fa" rx="15"/>
+<text x="30" y="34" fill="#24292f">
+<tspan x="30" y="34" fill="#24292f">navaneeth@rvce  ────────────────────────────────────────────────────────</tspan>
+<tspan x="30" y="56" fill="#c2cfde">. Role        : </tspan>
+<tspan x="30" y="78" fill="#0a3069">Unity Game Developer · CS Student (RVCE)</tspan>
+<tspan x="30" y="100" fill="#c2cfde">. Education   : </tspan>
+<tspan x="30" y="122" fill="#0a3069">B.E. Computer Science, RVCE · Expected 2027</tspan>
+<tspan x="30" y="144" fill="#c2cfde">. Focus       : </tspan>
+<tspan x="30" y="166" fill="#0a3069">Game Dev (Unity/C#) · AI-Native Tools</tspan>
+<tspan x="30" y="188" fill="#c2cfde">. Languages   : </tspan>
+<tspan x="30" y="210" fill="#0a3069">C# · C · C++ · TypeScript · Rust · Python</tspan>
+<tspan x="30" y="232" fill="#c2cfde">.             : </tspan>
+<tspan x="30" y="254" fill="#0a3069">Dart · Java · Swift</tspan>
+<tspan x="30" y="276" fill="#c2cfde">. Game / 3D   : </tspan>
+<tspan x="30" y="298" fill="#0a3069">Unity 2D/3D · HDRP · URP · ShaderLab · WebGL</tspan>
+<tspan x="30" y="320" fill="#c2cfde">. Cloud       : </tspan>
+<tspan x="30" y="342" fill="#0a3069">Firebase · AWS · Supabase · REST</tspan>
+<tspan x="30" y="364" fill="#c2cfde">. Mobile      : </tspan>
+<tspan x="30" y="386" fill="#0a3069">Android (Unity) · Google Play · AdMob</tspan>
+<tspan x="30" y="408" fill="#24292f">- Experience ────────────────────────────────────────────────────────</tspan>
+<tspan x="30" y="430" fill="#953800">. eternoplay Studios   </tspan>
+<tspan x="30" y="452" fill="#0a3069">Game Dev Intern · Jul–Sep 2025</tspan>
+<tspan x="30" y="474" fill="#953800">. Karma Play Academy   </tspan>
+<tspan x="30" y="496" fill="#0a3069">Trainee Game Programmer · Mar–Jul 2025</tspan>
+<tspan x="30" y="518" fill="#24292f">- Open Source ────────────────────────────────────────────────────────</tspan>
+<tspan x="30" y="540" fill="#953800">. Remotion     </tspan>
+<tspan x="30" y="562" fill="#0a3069">#10863 #10862 #10860 #10837  (24k+ stars)</tspan>
+<tspan x="30" y="584" fill="#953800">. Excalidraw   </tspan>
+<tspan x="30" y="606" fill="#0a3069">#11964 #11969 #11968  (95k+ stars)</tspan>
+<tspan x="30" y="628" fill="#953800">. coreutils    </tspan>
+<tspan x="30" y="650" fill="#0a3069">#14144* #14145 #14148 #14158  (20k+ stars)</tspan>
+<tspan x="30" y="672" fill="#953800">. lossless-cut </tspan>
+<tspan x="30" y="694" fill="#0a3069">#3032  (25k+ stars)</tspan>
+<tspan x="30" y="716" fill="#24292f">- Achievements ────────────────────────────────────────────────────────</tspan>
+<tspan x="30" y="738" fill="#c2cfde">. </tspan>
+<tspan x="30" y="760" fill="#0a3069">Firebase App Jam 1st · Make Your Game Jam 6th (MIT)</tspan>
+<tspan x="30" y="782" fill="#c2cfde">. </tspan>
+<tspan x="30" y="804" fill="#0a3069">Reimagining Minesweeper Jam #1 / #2</tspan>
+<tspan x="30" y="826" fill="#24292f">- Contact ────────────────────────────────────────────────────────</tspan>
+<tspan x="30" y="848" fill="#c2cfde">. Email    : </tspan>
+<tspan x="30" y="870" fill="#0a3069">nthy2355@gmail.com</tspan>
+<tspan x="30" y="892" fill="#c2cfde">. GitHub   : </tspan>
+<tspan x="30" y="914" fill="#0a3069">MadeNavaneeth</tspan>
+<tspan x="30" y="936" fill="#c2cfde">. LinkedIn : </tspan>
+<tspan x="30" y="958" fill="#0a3069">navaneeth-yadamreddy</tspan>
+<tspan x="30" y="980" fill="#c2cfde">. Itch     : </tspan>
+<tspan x="30" y="1002" fill="#0a3069">madenavaneeth</tspan>
+<tspan x="30" y="1024" fill="#24292f">- GitHub Stats ────────────────────────────────────────────────────────</tspan>
+<tspan x="30" y="1046" fill="#953800">. Repos </tspan>
+<tspan x="30" y="1068" fill="#0a3069">17</tspan>
+<tspan x="30" y="1090" fill="#953800"> | Stars </tspan>
+<tspan x="30" y="1112" fill="#0a3069">2</tspan>
+<tspan x="30" y="1134" fill="#953800"> | Followers </tspan>
+<tspan x="30" y="1156" fill="#0a3069">0</tspan>
+<tspan x="30" y="1178" fill="#953800">. Commits (1y) </tspan>
+<tspan x="30" y="1200" fill="#0a3069">348</tspan>
+<tspan x="30" y="1222" fill="#953800"> | External OSS PRs </tspan>
+<tspan x="30" y="1244" fill="#0a3069">12</tspan>
+</text>
+</svg>
