@@ -141,7 +141,7 @@ MEMBER            Coding Club RVCE             (Dec 2024–)
 
 <pre>
 YADAMREDDY NAVANEETH
-📞 +91 9908412469   ✉️ nthy2355@gmail.com
+✉️ nthy2355@gmail.com
 GITHUB · LINKEDIN · ITCH.IO  →  links in header
 </pre>
 
