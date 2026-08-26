@@ -1,241 +1,148 @@
 <div align="center">
 
-<img src="banner.png" alt="Navaneeth" width="900"/>
+<img src="banner.png" alt="NAVANEETH" width="900"/>
 
-[![GitHub](https://img.shields.io/badge/-MadeNavaneeth-181717?style=for-the-badge&logo=github)](https://github.com/MadeNavaneeth)
-[![LinkedIn](https://img.shields.io/badge/-navaneeth--yadamreddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/navaneeth-yadamreddy)
-[![Itch.io](https://img.shields.io/badge/-madenavaneeth-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://madenavaneeth.itch.io/)
-[![Email](https://img.shields.io/badge/-nthy2355@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nthy2355@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-**Unity Game Developer** · *CS Student, RV College of Engineering (B.E. expected 2027)*
-
-*I build and ship mobile games & apps, and AI-native creative tooling — with a focus on polished, performant, user-centric experiences.*
+[![GitHub](https://img.shields.io/badge/-MadeNavaneeth-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/MadeNavaneeth)
+[![LinkedIn](https://img.shields.io/badge/-navaneeth--yadamreddy-E4002B?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/navaneeth-yadamreddy)
+[![Itch.io](https://img.shields.io/badge/-madenavaneeth-E4002B?style=flat-square&logo=itch.io&logoColor=white)](https://madenavaneeth.itch.io/)
+[![Email](https://img.shields.io/badge/-nthy2355@gmail.com-E4002B?style=flat-square&logo=gmail&logoColor=white)](mailto:nthy2355@gmail.com)
 
 </div>
 
 ---
 
-### 🛠️ Tech Stack
-
-<div align="center">
-
-| | |
-|---|---|
-| **Languages** | C# · C · C++ · TypeScript · Rust · Python · Dart · Java · Swift |
-| **Game / 3D** | Unity (2D/3D) · HDRP · URP · ShaderLab · WebGL · Physics |
-| **Frameworks** | React · Electron · Flutter · FastAPI · Next.js · Vite |
-| **AI/ML** | Whisper · LLM Systems · TF-IDF · scikit-learn |
-| **Backend / Cloud** | Firebase (Auth · RTDB · Storage) · AWS · Supabase · REST |
-| **Mobile** | Android (Unity) · Google Play Console · AdMob |
-| **Tools** | Git · FFmpeg · wgpu · pnpm · Tableau · Figma |
-
-</div>
+<pre align="center">
+<b>YADAMREDDY NAVANEETH</b>
+UNITY GAME DEVELOPER  //  CS @ RVCE  //  B.E. EXPECTED 2027
+BUILDING GAMES & AI-NATIVE CREATIVE TOOLS
+</pre>
 
 ---
 
-### 🔨 Featured Projects
+### `01` TECH STACK
 
-> All public repositories — no private repos linked.
+```
+LANGUAGES      C#  C  C++  TypeScript  Rust  Python  Dart  Java  Swift
+GAME / 3D      Unity 2D/3D · HDRP · URP · ShaderLab · WebGL · Physics
+FRAMEWORKS     React · Electron · Flutter · FastAPI · Next.js · Vite
+AI / ML        Whisper · LLM Systems · TF-IDF · scikit-learn
+CLOUD / BACK   Firebase (Auth·RTDB·Storage) · AWS · Supabase · REST
+MOBILE         Android (Unity) · Google Play Console · AdMob
+TOOLS          Git · FFmpeg · wgpu · pnpm · Tableau · Figma
+```
 
-<table>
-<tr>
-<td width="50%">
+---
 
-**📱 [RVCE SIP](https://github.com/MadeNavaneeth/RVCE-SIP)** — *Published Jan 2024*
-Academic management app in Unity. Clean UI, shipped to Google Play — **450+ installs**.
+### `02` FEATURED PROJECTS
 
-</td>
-<td width="50%">
+> Public repositories only — no private repos linked.
 
-**🎬 [Palmier Pro](https://github.com/MadeNavaneeth/palmier-pro-windows)** — ⭐ 2
-AI-native video editor: Electron + React + Rust/wgpu + FFmpeg + MCP.
-*TypeScript · Rust*
+**`[RVCE-SIP]`** — *PUBLISHED JAN 2024* · [repo](https://github.com/MadeNavaneeth/RVCE-SIP)
+Academic management app (Unity). Shipped to Google Play — **450+ installs**.
 
-</td>
-</tr>
-<tr>
-<td>
+**`[PALMIER-PRO]`** — ⭐ 2 · [repo](https://github.com/MadeNavaneeth/palmier-pro-windows)
+AI-native video editor: Electron + React + Rust/wgpu + FFmpeg + MCP. `TS·Rust`
 
-**🎮 [Helix-Jump-Game](https://github.com/MadeNavaneeth/Helix-Jump-Game)** — *July 2025*
-Procedural physics-based mobile game (Unity). Platform generation, scoring, optimized game loop & controls.
+**`[HELIX-JUMP-GAME]`** — *JULY 2025* · [repo](https://github.com/MadeNavaneeth/Helix-Jump-Game)
+Procedural physics-based mobile game (Unity). Platform gen, scoring, tuned loop.
 
-</td>
-<td>
+**`[MINEOGRAM]`** — *APR 2026 · ITCH* · [play](https://madenavaneeth.itch.io/)
+Minesweeper + Nonogram logic puzzle, deterministic deduction levels. **#1 "Enjoyable Difficulty" & #2 "Fun" — Reimagining Minesweeper Jam.**
 
-**🧩 [Mineogram](https://madenavaneeth.itch.io/)** — *Apr 2026 · Itch.io*
-Minesweeper + Nonogram logic puzzle with deterministic, deduction-based levels. **#1 "Enjoyable Difficulty" & #2 "Fun" — Reimagining Minesweeper Jam.**
+**`[9-LIVES-RUNNER]`** — *OCT 2025 · ITCH* · [play](https://madenavaneeth.itch.io/)
+Endless runner, dimension-switching, custom health/scoring. **6th — Make Your Game Jam (MIT).**
 
-</td>
-</tr>
-<tr>
-<td>
+**`[PLAYERPULSE]`** — [repo](https://github.com/MadeNavaneeth/PlayerPulseAnalytics)
+Real-time game analytics: ML churn prediction, live-ops feeds, Tableau Extension.
 
-**🏃 [9 Lives Runner](https://madenavaneeth.itch.io/)** — *Oct 2025 · Itch.io*
-Endless runner with dimension-switching mechanics + custom health/scoring. **Ranked 6th — Make Your Game Jam (MIT).**
+**`[AR-ASSIGNMENT]`** — [repo](https://github.com/MadeNavaneeth/AR_Assignment)
+AR app (Unity + AR Foundation, ARKit/ARCore): vertical-plane detection + video overlay.
 
-</td>
-<td>
+**`[UNITY-AWS-TOOLKIT]`** — [repo](https://github.com/MadeNavaneeth/Unity-AWS-Toolkit)
+AWS for every Unity platform incl. WebGL. Pure C# REST toolkit.
 
-**📊 [PlayerPulseAnalytics](https://github.com/MadeNavaneeth/PlayerPulseAnalytics)**
-Real-time game analytics dashboard: ML-powered churn prediction, live-ops feeds, Tableau Extension.
+**`[UNITY-FIREBASE-TOOLKIT]`** — [repo](https://github.com/MadeNavaneeth/Unity-Firebase-Toolkit)
+Firebase for every Unity platform incl. WebGL. Pure C# REST toolkit.
 
-</td>
-</tr>
-<tr>
-<td>
-
-**🅰️ [AR_Assignment](https://github.com/MadeNavaneeth/AR_Assignment)**
-AR app (Unity + AR Foundation, ARKit/ARCore) detecting vertical planes and overlaying transparent video.
-
-</td>
-<td>
-
-**☁️ [Unity-AWS-Toolkit](https://github.com/MadeNavaneeth/Unity-AWS-Toolkit)**
-AWS for every Unity platform, including WebGL. Pure C# REST toolkit.
-
-</td>
-</tr>
-<tr>
-<td>
-
-**🔥 [Unity-Firebase-Toolkit](https://github.com/MadeNavaneeth/Unity-Firebase-Toolkit)**
-Firebase for every Unity platform, including WebGL. Pure C# REST toolkit.
-
-</td>
-<td>
-
-**🧠 [LLM-Memory-System](https://github.com/MadeNavaneeth/LLM-Memory-System)**
+**`[LLM-MEMORY-SYSTEM]`** — [repo](https://github.com/MadeNavaneeth/LLM-Memory-System)
 Local-first LLM memory layer (Python).
 
-</td>
-</tr>
-<tr>
-<td>
+**`[DATACLEANING-OPENENV]`** — [repo](https://github.com/MadeNavaneeth/datacleaning_openenv)
+Python data-cleaning environment.
 
-**🧹 [datacleaning_openenv](https://github.com/MadeNavaneeth/datacleaning_openenv)** — Python data-cleaning environment.
-
-</td>
-<td>
-
-**🖥️ [Resource-Monitoring-and-Management-System](https://github.com/MadeNavaneeth/Resource-Monitoring-and-Management-System)** — Python resource monitoring & management.
-
-</td>
-</tr>
-</table>
+**`[RESOURCE-MONITOR]`** — [repo](https://github.com/MadeNavaneeth/Resource-Monitoring-and-Management-System)
+Python resource monitoring & management system.
 
 ---
 
-### 💼 Experience
+### `03` EXPERIENCE
 
-<table>
-<tr>
-<td width="50%">
-
-**Game Developer Intern** — *eternoplay Studios Pvt. Ltd*
-📅 Jul 28 – Sep 30 2025 · Remote
-
-- Live production game **HexaBattle** on Google Play
-- **AdMob** monetization, UI systems, audio manager, leaderboards
-- Shipped updates & fixed issues for active users
+**`> eternoplay Studios Pvt. Ltd`** — Game Developer Intern · *Jul 28 – Sep 30 2025 · Remote*
+```
+- Live production game HEXABATTLE on Google Play
+- AdMob monetization · UI systems · audio manager · leaderboards
+- Shipped live updates & fixed issues for active users
 - Maintained performance & gameplay quality
+```
 
-</td>
-<td width="50%">
-
-**Trainee Video Game Programmer** — *Karma Play Academy (UK)*
-📅 Mar 10 – Jul 10 2025 · Remote
-
-- **Hollywood Director: The Simulation** — simulation game system
-- **HDRP post-processing** (Beautify), scene/global volume configs
-- Settings system: resolution + refresh-rate, **ultrawide** support
-- Camera systems, themed UI, real-time rendering, PlayerPrefs persistence
-
-</td>
-</tr>
-</table>
+**`> Karma Play Academy (UK)`** — Trainee Video Game Programmer · *Mar 10 – Jul 10 2025 · Remote*
+```
+- HOLLYWOOD DIRECTOR: THE SIMULATION — simulation game system
+- HDRP post-processing (Beautify) · scene/global volume configs
+- Settings: resolution + refresh-rate · ULTRAWIDE support
+- Camera systems · themed UI · real-time rendering · PlayerPrefs
+```
 
 ---
 
-### 🌍 Open Source
+### `04` OPEN SOURCE
 
 Verified PRs across major projects:
 
-<table>
-<tr>
-<td>
-
-**[Remotion](https://github.com/remotion-dev/remotion)** — ⭐ 24k+ · Programmatic video (TS/React)
-- `#10863` Studio: alphabetical sort toggle for compositions
-- `#10862` Studio: expand effects panel when adding an effect
-- `#10860` Studio: open number input when tabbing an InputDragger
-- `#10837` Fix caption elements not movable/hideable in Studio
-
-</td>
-<td>
-
-**[Excalidraw](https://github.com/excalidraw/excalidraw)** — ⭐ 95k+ · Whiteboard (TS)
-- `#11964` Switch arrow types of bound arrows via shape switcher
-- `#11969` Resolve Dialog `aria-labelledby` to namespaced title id
-- `#11968` Detect localStorage quota errors in non-Chromium browsers
-
-</td>
-</tr>
-<tr>
-<td>
-
-**[uutils/coreutils](https://github.com/uutils/coreutils)** — ⭐ 20k+ · Rust GNU coreutils
-- `#14144` *(merged)* `sort`: attached `-t=` field separator
-- `#14145` `sort`: GNU blank set (space/tab) for `-d`/`-n`
-- `#14148` `paste`/`join`: attached `-d=`/`-t=` separators
-- `#14158` `sort`: clustered short options ending in `-t`
-
-</td>
-<td>
-
-**[lossless-cut](https://github.com/mifi/lossless-cut)** — ⭐ 25k+ · Lossless editing
-- `#3032` Fix inflated output duration on `attached_pic` streams
-
-</td>
-</tr>
-</table>
+```
+[REMEDIOn]    remotion-dev/remotion   ⭐ 24k+   (#10863 #10862 #10860 #10837)
+[EXCALIDRAW]  excalidraw/excalidraw   ⭐ 95k+   (#11964 #11969 #11968)
+[COREUTILS]   uutils/coreutils        ⭐ 20k+   (#14144*merged #14145 #14148 #14158)
+[LOSSLESS]    mifi/lossless-cut       ⭐ 25k+   (#3032)
+```
 
 ---
 
-### 🏆 Achievements
+### `05` ACHIEVEMENTS
 
-🥇 **1st — Firebase App Jam** (Kalpavikas Tech Fest, RV University)
-🥈 **Runners-up — Exuberance 2025** (E-Cell, RVCE)
-🥉 **6th — Make Your Game Jam** (MIT) · *9 Lives Runner*
-🏅 **#1 "Enjoyable Difficulty" & #2 "Fun"** — Reimagining Minesweeper Jam · *Mineogram*
-
----
-
-### 🎓 Certifications
-
-**Game Design and Development 1: 2D Shooter** — Coursera, Michigan State University
+```
+🥇 1ST   Firebase App Jam            Kalpavikas Tech Fest, RVU
+🥈 2ND   Exuberance 2025             E-Cell, RVCE
+🥉 6TH   Make Your Game Jam (MIT)    9 Lives Runner
+🏅 #1/#2 Reimagining Minesweeper Jam Mineogram
+```
 
 ---
 
-### 🌟 Extracurricular
+### `06` CERTIFICATIONS
 
-**Senior Executive** — RVCE ACM Student Chapter (Dec 2024–) · events & workshops
-**Design Team Lead** — IEEE RVCE (Feb 2025–) · event visuals & assets
-**Member** — Coding Club RVCE (Dec 2024–) · coding & collaborations
+```
+GAME DESIGN & DEVELOPMENT 1: 2D SHOOTER — Coursera, Michigan State University
+```
+
+---
+
+### `07` EXTRACURRICULAR
+
+```
+SENIOR EXECUTIVE   RVCE ACM Student Chapter     (Dec 2024–)
+DESIGN TEAM LEAD   IEEE RVCE                    (Feb 2025–)
+MEMBER            Coding Club RVCE             (Dec 2024–)
+```
 
 ---
 
 <div align="center">
 
-**Yadamreddy Navaneeth** · 📞 +91 9908412469 · ✉️ nthy2355@gmail.com
-
-[GitHub](https://github.com/MadeNavaneeth) · [LinkedIn](https://linkedin.com/in/navaneeth-yadamreddy) · [Itch.io](https://madenavaneeth.itch.io/)
-
-*"The best tools get out of the way and let you create."*
+<pre>
+YADAMREDDY NAVANEETH
+📞 +91 9908412469   ✉️ nthy2355@gmail.com
+GITHUB · LINKEDIN · ITCH.IO  →  links in header
+</pre>
 
 </div>
