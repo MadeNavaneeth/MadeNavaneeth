@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="banner.png" alt="NAVANEETH" width="900"/>
+# NAVANEETH
+
+**UNITY GAME DEVELOPER** · *CS @ RVCE · B.E. EXPECTED 2027*
 
 [![GitHub](https://img.shields.io/badge/-MadeNavaneeth-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/MadeNavaneeth)
 [![LinkedIn](https://img.shields.io/badge/-navaneeth--yadamreddy-E4002B?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/navaneeth-yadamreddy)
